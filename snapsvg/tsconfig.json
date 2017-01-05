@@ -15,8 +15,8 @@
     },
     "files": [
         "index.d.ts",
-        "snapsvg-tests.ts",
-        "snapsvg-tests-2.ts",
-        "snapsvg-tests-3.ts"
+        "test/1.ts",
+        "test/2.ts",
+        "test/3.ts"
     ]
 }

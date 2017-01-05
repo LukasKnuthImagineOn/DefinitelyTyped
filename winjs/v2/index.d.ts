@@ -1,4 +1,4 @@
-// Type definitions for WinJS
+// Type definitions for WinJS 2.x
 // Project: http://try.buildwinjs.com/
 // Definitions by: TypeScript samples <https://www.typescriptlang.org/>, Adam Hewitt <https://github.com/adamhewitt627>, Craig Treasure <https://github.com/craigktreasure>, Jeff Fisher <https://github.com/xirzec>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
@@ -4203,7 +4203,7 @@ declare namespace WinJS.UI {
 
        //#endregion Properties
     }
-    
+
     /**
      * Represents a grid layout for the ListView in which items are arranged in a horizontal grid.
     **/

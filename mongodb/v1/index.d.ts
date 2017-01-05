@@ -1,4 +1,4 @@
-// Type definitions for MongoDB
+// Type definitions for MongoDB 1.0
 // Project: https://github.com/mongodb/node-mongodb-native
 // Definitions by: Boris Yankov <https://github.com/borisyankov/>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
